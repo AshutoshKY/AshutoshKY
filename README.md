@@ -1,6 +1,6 @@
 <div align="center">
   
-[![linkedin badge](https://img.shields.io/badge/AshutoshKY-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritishkhanna)
+[![linkedin badge](https://img.shields.io/badge/AshutoshKY-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-kumar-yadav/)
 ![GitHub followers](https://img.shields.io/github/followers/AshutoshKY?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/AshutoshKY_?style=social)
 
