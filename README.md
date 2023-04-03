@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning React, JS, Trading, DS
 - 💞️ I’m looking to collaborate on OpenSource Projects and anything soothing my workflow
 - 💬 Ask me about WebDev,C++, DataStructures, Python
-- 📫 How to reach me: **[Twitter](https://twitter.com/AshutoshKY_)** **[linkedin](https://www.linkedin.com/in/ashutosh-kumar-yadav-40b322126/)**
+- 📫 How to reach me: **[linkedin](https://www.linkedin.com/in/ashutosh-kumar-yadav-40b322126/)**
 
 <br>
 
