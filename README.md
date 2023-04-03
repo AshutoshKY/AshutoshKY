@@ -10,6 +10,10 @@
 
 <img align="right" src="./giphy.webp"/>
 
+<br>
+<br>
+<br>
+<br>
 
 ## 🙋‍♂️ About Me
 <br>
