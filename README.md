@@ -1,8 +1,8 @@
 <div align="center">
   
 [![linkedin badge](https://img.shields.io/badge/AshutoshKY-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-kumar-yadav/)
-![GitHub followers](https://img.shields.io/github/followers/AshutoshKY?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/AshutoshKY_?style=social)
+![GitHub badge](https://img.shields.io/github/followers/AshutoshKY?style=social)
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/AshutoshKY_?style=social) -->
 
 <h2> YO! 🤟</h2>
 
@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning React, JS, Trading, DS
 - 💞️ I’m looking to collaborate on OpenSource Projects and anything soothing my workflow
 - 💬 Ask me about WebDev,C++, DataStructures, Python
-- 📫 How to reach me: **[Twitter](https://twitter.com/AshutoshKY_)** **[linkedin](https://www.linkedin.com/in/ashutosh-kumar-yadav-40b322126/)**
+<!-- - 📫 How to reach me: **[Twitter](https://twitter.com/AshutoshKY_)** **[linkedin](https://www.linkedin.com/in/ashutosh-kumar-yadav-40b322126/)** -->
 
 <br>
 
