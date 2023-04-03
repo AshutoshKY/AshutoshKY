@@ -8,6 +8,9 @@
 
 </div>
 
+<br>
+<br>
+
 <img align="right" src="./giphy.webp"/>
 
 <br>
@@ -28,6 +31,8 @@
 - 📫 How to reach me: **[linkedin](https://www.linkedin.com/in/ashutosh-kumar-yadav-40b322126/)**
 
 <br>
+<br>
+
 
 
 <!-- Connect with me -->
