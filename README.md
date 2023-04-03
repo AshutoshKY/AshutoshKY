@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<img align="right" src="<iframe src="https://giphy.com/embed/KCzzHN7Y0hlLi" width="480" height="414" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hoppip-art-hoppip-KCzzHN7Y0hlLi">via GIPHY</a></p>"/>
+<iframe src="https://giphy.com/embed/KCzzHN7Y0hlLi" width="480" height="414" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hoppip-art-hoppip-KCzzHN7Y0hlLi">via GIPHY</a></p>
 
 <br>
 <br>
