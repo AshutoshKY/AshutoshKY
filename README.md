@@ -1,133 +1,121 @@
-<div align="center">
+## Hey 👋, I'm [Ashutosh Kumar Yadav!](ashutoshky.vercel.app) 🚀
 
-<a href="https://www.linkedin.com/in/ashutosh-kumar-yadav/" target="_blank">
-  <img src="https://img.shields.io/badge/Ashutosh_Kumar_Yadav-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://img.shields.io/github/followers/AshutoshKY?style=social" />
-
-<h2>Hey, I'm Ashutosh 👋</h2>
-<p><b>Backend Engineer • Distributed Systems • AI Automation</b></p>
-
-</div>
+[![Website Badge](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutoshky.vercel.app)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-yadav/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshutoshKY)
+![Profile Views](https://komarev.com/ghpvc/?username=AshutoshKY&color=blue)
 
 ---
 
-<img align="right" src="./giphy.webp" width="300"/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## 👨‍💻 About Me
+### 👨‍💻 About me
 
-- Backend Software Engineer focused on **scalable systems, reliability, and ownership**
-- Strong experience with **Golang**, **distributed systems**, and **infra-aware backend design**
-- Built & owned **production-grade systems** used at scale (payments, onboarding, KYC, sync pipelines)
-- Heavy believer in **clean architecture, DDD, async pipelines, and observability**
-- Recently diving deep into **Generative AI, RAG pipelines, AI agents, and MCP servers**
-- Prefer **practical solutions over hype**. Blunt feedback > sugarcoating.
+I’m a backend engineer who spends most of the time:
+- writing Go
+- dealing with async flows
+- fixing things that only break in production
+- and trying not to overcomplicate systems
 
-📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/ashutosh-kumar-yadav/)**
+I’ve worked on backend systems at **Razorpay**, mostly around onboarding, integrations, and background processing.  
+These days I’m also playing with **AI inside backend systems** — automation, document workflows, and glue code that saves humans time.
 
----
-
-## 🧠 Tech Stack & Skills
-
-### 🔹 Languages
-- **Golang** (primary)
-- SQL (MySQL, PostgreSQL)
-- JavaScript / TypeScript (backend-first usage)
-
-### 🔹 Backend & Architecture
-- Microservices & Monolith Decomposition  
-- Domain-Driven Design (DDD)
-- Async pipelines, background workers, goroutines
-- API design (REST, gRPC, Webhooks)
-- Idempotency, retries, rate-limiting, fault tolerance
-
-### 🔹 Databases & Messaging
-- MySQL / PostgreSQL (schema design, migrations)
-- Redis (caching, rate limiting, locks)
-- **Kafka** (events, consumers, retries, DLQs)
-- Zookeeper
-
-### 🔹 Infra & DevOps
-- Docker, Kubernetes
-- Helm / Helmfile
-- CI/CD pipelines
-- Structured logging & metrics
-- On-call debugging & RCA ownership
-
-### 🔹 AI / Automation
-- LLM-based automation systems
-- OCR pipelines (OpenAI, Google Vision)
-- RAG pipelines
-- AI agents for engineering workflows
-- Document verification & classification systems
+Nothing fancy — just building, breaking, and improving things.
 
 ---
 
-## 🚀 Notable Work & Projects
+### 🏗️ What I work on
 
-### 🔹 Rize Incorporation Platform (Production)
-- Led **bi-directional sync with Salesforce**
-- Designed async pipelines with retries & idempotency
-- Fixed critical P0/P1 onboarding & payment bugs
-- Improved WhatsApp / Email / Post-Processor flows
-- Achieved **90%+ test coverage** on critical paths
-
-### 🔹 Identity & KYC Systems
-- Multi-vendor OCR integrations
-- Automated document verification pipelines
-- Reduced TAT via backfilling & deduplication jobs
-- Owned infra + backend changes end-to-end
-
-### 🔹 URL Shortener (Side Project)
-- Go backend + MySQL
-- OAuth (Google)
-- Rate limiting (10 req/sec/user)
-- Docker + Kubernetes ready
-- Clean, infra-aware backend design
-
-### 🔹 AI Engineering Work
-- LLM wrappers for document workflows
-- RAG-based internal tooling
-- Exploring MCP servers & agentic workflows
+- Distributed backend systems
+- Async pipelines & event-driven flows
+- Background jobs, retries, idempotency
+- External system syncs
+- Automation & AI inside backend systems
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Languages & Tools
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshutoshKY&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshKY&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=go,postgres,mysql,redis,kafka,docker,kubernetes,js,ts,linux,git" />
 </p>
 
 ---
 
-## 🧩 Contribution & Activity
+### 🔭 Currently exploring
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshutoshKY&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧭 What I Care About
-
-- Ownership > titles  
-- Systems that don’t wake you up at 3AM  
-- Debugging over vibes  
-- Metrics over opinions  
-- Learning things that actually ship
+- AI inside backend systems (not just UI demos)
+- RAG pipelines & document intelligence
+- Agent-style workflows & MCP servers
+- Making async systems observable & boring
 
 ---
 
-<div align="center">
+### ⚽ Outside work
 
-### 👀 Profile Views
-<img src="https://profile-counter.glitch.me/AshutoshKY/count.svg" />
+- 🏎️ Watching Formula 1
+- ⚽ Playing football
+- 🍿 Anime & TV series
 
-</div>
+</td>
+
+<td width="45%" valign="top">
+
+<img align="right" width="100%" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" />
 
 ---
 
-<p align="center">
-<b>“Build boring systems that work.”</b>
-</p>
+### ⚡ GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AshutoshKY&show_icons=true&hide_border=true&theme=dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshKY&layout=compact&hide_border=true&theme=dark" />
+
+---
+
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshutoshKY&theme=dark&hide_border=true" />
+
+---
+
+### 🧑‍🚀 Work & Projects (high level)
+
+<table>
+<tr>
+<td><b>Area</b></td>
+<td><b>Details</b></td>
+</tr>
+<tr>
+<td>Razorpay</td>
+<td>Backend systems, async pipelines, integrations</td>
+</tr>
+<tr>
+<td>Personal Projects</td>
+<td>Backend services, infra-heavy side projects</td>
+</tr>
+<tr>
+<td>Automation</td>
+<td>Replacing manual ops using code & AI</td>
+</tr>
+<tr>
+<td>AI Systems</td>
+<td>LLM workflows, document intelligence</td>
+</tr>
+</table>
+
+---
+
+### 📫 Reach me
+
+- 🌐 <a href="https://ashutoshky.vercel.app">ashutoshky.vercel.app</a>
+- 💼 <a href="https://www.linkedin.com/in/ashutosh-kumar-yadav/">LinkedIn</a>
+- 💻 <a href="https://github.com/AshutoshKY">GitHub</a>
+
+</td>
+</tr>
+</table>
+
+---
