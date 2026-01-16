@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Ashutosh Kumar Yadav!](ashutoshky.vercel.app) 🚀
+## Hey 👋, I'm [Ashutosh Kumar Yadav!](https://ashutoshky.vercel.app) 🚀
 
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutoshky.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-yadav/)
@@ -112,7 +112,6 @@ Nothing fancy — just building, breaking, and improving things.
 
 - 🌐 <a href="https://ashutoshky.vercel.app">ashutoshky.vercel.app</a>
 - 💼 <a href="https://www.linkedin.com/in/ashutosh-kumar-yadav/">LinkedIn</a>
-- 💻 <a href="https://github.com/AshutoshKY">GitHub</a>
 
 </td>
 </tr>
